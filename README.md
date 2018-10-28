@@ -1,8 +1,8 @@
-# cautious-meme: https://github.com/badgerbricker/cautious-meme
+# xteam-exercise-2: https://github.com/badgerbricker/cautious-meme
 
 1. Edit the title of this document
    * Replace <UserName> with the user name of the team member who created shared repository
-   * Replace <GitHubRepositoryName> with the name of your team's GitHub repository for this exercise.
+   * Replace <GitHubRepositoryName> with the name of your team's GitHub repositoryfor this exercise.
    * Remove the angle brackets <> if they are still there in the title
 
 2. Answer these questions
