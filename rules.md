@@ -26,10 +26,10 @@ Group members should communicate early and often in regards to their progress an
 
 ## Add any other rules that your team establishes to help each other work effectively together
 
-Respect other members of the team.
-Be on time and come prepared to meetings.
-Make an effort to resolve conflicts instead of ignoring the issue and disreguarding the opinions of fellow team members.
-Give all team members an opportunity to have their voice and opinions heard.
-Majority rules, if a majority of the team agrees upon something then thats the way it will be reguardless of your personal opinions.
-Be vocal and upfront about any issues.
-Be in constant communication with other team members, respond to emails and other forms of communication in a timely yet resonable manner and be vocal at in person meetings.
+* Respect other members of the team.
+* Be on time and come prepared to meetings.
+* Make an effort to resolve conflicts instead of ignoring the issue and disreguarding the opinions of fellow team members.
+* Give all team members an opportunity to have their voice and opinions heard.
+* Majority rules, if a majority of the team agrees upon something then thats the way it will be reguardless of your personal opinions.
+* Be vocal and upfront about any issues.
+* Be in constant communication with other team members, respond to emails and other forms of communication in a timely yet resonable manner and be vocal at in person meetings.
