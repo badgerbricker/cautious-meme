@@ -11,9 +11,10 @@
        * GitHub username 2: badgerbricker           name 2:Austin Muschott
        * GitHub username 3: AlexanderPawlowski      name 3: Alex Pawlowski
        * GitHub username 4: cptn-neemo              name 4: Max Huddleston
-       * GitHub username 5:       name 5:
    * When did you complete this exercise? 
+   October 28th, 2018
    * How long did it take your team to complete this exercise? 
+   Three hours
 
 ## Table of Contents
 
