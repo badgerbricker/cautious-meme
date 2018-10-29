@@ -43,11 +43,11 @@ Program will have a user friendly GUI to keep track of lists and tasks. The outp
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
-The user will need to imput tasks, priority of the task(optional), and if that task is linked to any other lists.
+The user will need to input tasks, priority of the task(optional), and if that task is linked to any other lists.
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
-The user interface will be a simple graphical user interface that allows settings and features to be tweaked reguarding the program and its display but also the specific task and its related tasks, priority and other parameters.
+The user interface will be a simple graphical user interface that allows settings and features to be tweaked regarding the program and its display but also the specific task and its related tasks, priority and other parameters. It will have an option bar at the top of the program and a list of all the tasks.
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
@@ -58,26 +58,31 @@ The user interface will be a simple graphical user interface that allows setting
 * state saving for program resuming
 
 Name each interface or class and briefly describe its function or purpose.
+1. Main.java
+* Runs the main loop for the GUI. Will listen to click events, as well as handling the addition and removal of TODO list items
 
-1. List Node Interface
+2. List Node Interface
 * Is a single todo task, contains text, priority, time and date, and additional features like due date
 * has getter and setter methods for editable parameters so that the GUI can draw the TODO and access them
 * contructors
 * extended by created List Nodes
 
-2.List Array
+3.List Array
 * an array of List Node objects that is the list itself, order can be changed by user and filtered according to different parameters
 * title of list/array set by user
 * is the unique data type created by our team. Its linked or interesecting arrays.
 
-3.GUI
+4.GUI
 * constantly updates the graphical aspects of the program by checking data movement on the backend
 * has buttons for adding lists, nodes, setting additional parameters of a node
 * optional search capabilities
 
-4.State Saving
+5.State Saving
 * writes TODO lists to SQLite data base after each opperation to save the data
 * loads the SQLite data base that saves the program state
 
+6. Testing.java
+* A JUnit test class used to test the implementation of the List Node and List array methods. Will test that when an event is fired,
+* Main.java correctly calls the correct methods and produces the correct result.
 ## Edit and Submit this file and any figures referenced by this document.
 
