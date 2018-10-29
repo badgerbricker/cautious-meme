@@ -39,7 +39,7 @@ Life is busy so why waste time. Our group recognizes that people have lots of th
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
-Program will have a txt based interface to keep track of lists and tasks. The output will be a text list with tasks that can be checked off and edited.
+Program will have easy to use GUI to keep track of lists and tasks. The output will be a visual list with tasks that can be checked off and edited.
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
@@ -47,11 +47,12 @@ The user will need to input tasks, priority of the task and other optional info,
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
-The user interface will be a text based interface that allows settings and features to be tweaked regarding the program and its display but also the specific task and its related tasks, priority and other parameters. It will have an main menu that list of all the lists and options.
+The user interface will be a GUI that allows settings and features to be tweaked regarding the program, its display, a specific task, its related tasks, priority and other parameters. The user will be able to click on and search through their various lists which will be displayed in a sublist on the side of the program.
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
-* Text interface including exception handling and Input/output streams
+* GUI update and draw
+* GUI advanced features like menus, search box interaction and such
 * List arrangement and data management, remove, insert, get ect
 * List node and features reguarding TODO objects including parameters
 
