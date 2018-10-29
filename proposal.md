@@ -47,14 +47,37 @@ The user will need to imput tasks, priority of the task(optional), and if that t
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
-
+The user interface will be a simple graphical user interface that allows settings and features to be tweaked reguarding the program and its display but also the specific task and its related tasks, priority and other parameters.
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
-
+* GUI
+* GUI Menu and advanced features
+* List arrangement and data management, remove, insert, get ect
+* List node and features reguarding TODO objects including parameters
+* state saving for program resuming
 
 Name each interface or class and briefly describe its function or purpose.
 
+1. List Node Interface
+* Is a single todo task, contains text, priority, time and date, and additional features like due date
+* has getter and setter methods for editable parameters so that the GUI can draw the TODO and access them
+* contructors
+* extended by created List Nodes
+
+2.List Array
+* an array of List Node objects that is the list itself, order can be changed by user and filtered according to different parameters
+* title of list/array set by user
+* is the unique data type created by our team. Its linked or interesecting arrays.
+
+3.GUI
+* constantly updates the graphical aspects of the program by checking data movement on the backend
+* has buttons for adding lists, nodes, setting additional parameters of a node
+* optional search capabilities
+
+4.State Saving
+* writes TODO lists to SQLite data base after each opperation to save the data
+* loads the SQLite data base that saves the program state
 
 ## Edit and Submit this file and any figures referenced by this document.
 
