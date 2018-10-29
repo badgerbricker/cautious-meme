@@ -82,7 +82,6 @@ Name each interface or class and briefly describe its function or purpose.
 * loads the SQLite data base that saves the program state
 
 6. Testing.java
-* A JUnit test class used to test the implementation of the List Node and List array methods. Will test that when an event is fired,
-* Main.java correctly calls the correct methods and produces the correct result.
+* A JUnit test class used to test the implementation of the List Node and List array methods. Will test that when an event is fired, Main.java correctly calls the correct methods and produces the correct result.
 ## Edit and Submit this file and any figures referenced by this document.
 
