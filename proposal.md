@@ -29,7 +29,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Life is busy so why waste time. Our group recognizes that people have lots of things to and organization of these ideas is important for efficient time usage. There are many prexisting TODO or List programs but none that our group knows of allows cross listing tasks. Many tasks are part of or involve other tasks and recognizing the connection between tasks will allow users to save precious time in their busy lives. Our group will design a "TODO list" program that organizes tasks according to priority set by the user or any other variety of parameters such as due date, or time since creation. The biggest feature of this TODO list program is that the user will be able to link tasks by adding them to other lists. An example is that a project might require a certain part to complete so the user can add "get part" to both the project to do list and a shoping list. When the user marks the part task complete on the shopping list the program will also mark that task as done on the project list. This will help people streamline their TODO lists and prevent them from forgetting important tasks and minimizing inefficiencies.
+Life is busy so why waste time. Our group recognizes that people have lots of things to and organization of these ideas is important for efficient time usage. There are many prexisting TODO or List programs but none that our group knows of allows cross listing tasks. Many tasks are part of or involve other tasks and recognizing the connection between tasks will allow users to save precious time in their busy lives. Our group will design a "TODO list" program that organizes tasks according to priority set by the user or any other variety of parameters such as due date, or time since creation. The biggest feature of this TODO list program is that the user will be able to link tasks by adding them to other lists. An example is that a project might require a certain part to complete so the user can add "get part" to both the project list and a shoping list. When the user marks the part task complete on the shopping list the program will also mark that task as done on the project list. This will help people streamline their TODO lists by preventing them from forgetting important tasks and will minimize inefficiencies in the daily lives of the users.
 
 ## Questions to answer for Exercise #2
 
@@ -39,23 +39,21 @@ Life is busy so why waste time. Our group recognizes that people have lots of th
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
-Program will have a user friendly GUI to keep track of lists and tasks. The output will be a note with tasks that can be checked off and edited.
+Program will have a txt based interface to keep track of lists and tasks. The output will be a text list with tasks that can be checked off and edited.
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
-The user will need to input tasks, priority of the task(optional), and if that task is linked to any other lists.
+The user will need to input tasks, priority of the task and other optional info, and if that task is linked to any other lists.
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
-The user interface will be a simple graphical user interface that allows settings and features to be tweaked regarding the program and its display but also the specific task and its related tasks, priority and other parameters. It will have an option bar at the top of the program and a list of all the tasks.
+The user interface will be a text based interface that allows settings and features to be tweaked regarding the program and its display but also the specific task and its related tasks, priority and other parameters. It will have an main menu that list of all the lists and options.
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
-* GUI
-* GUI Menu and advanced features
+* Text interface including exception handling and Input/output streams
 * List arrangement and data management, remove, insert, get ect
 * List node and features reguarding TODO objects including parameters
-* state saving for program resuming
 
 Name each interface or class and briefly describe its function or purpose.
 1. Main.java
