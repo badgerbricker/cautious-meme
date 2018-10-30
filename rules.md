@@ -32,4 +32,4 @@ Group members should communicate early and often in regards to their progress an
 * Give all team members an opportunity to have their voice and opinions heard.
 * Majority rules, if a majority of the team agrees upon something then thats the way it will be regardless of your personal opinions.
 * Be vocal and upfront about any issues.
-* Be in constant communication with other team members, respond to emails and other forms of communication in a timely yet resonable manner and be vocal at in person meetings.
+* Be in constant communication with other team members, respond to emails and other forms of communication in a timely yet reasonable manner and be vocal at in person meetings.
